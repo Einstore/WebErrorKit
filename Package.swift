@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "WebError",
+    name: "WebErrorKit",
     products: [
         .library(name: "WebErrorKit", targets: ["WebErrorKit"])
     ],
